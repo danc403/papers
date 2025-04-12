@@ -7,6 +7,7 @@ This repository contains preliminary white papers and concept notes for various 
 :* **SENTIENT:** A novel neural tokenizer architecture focused on semantic and contextual encoding for language models. ([Link to sentient/sentient.md](https://github.com/danc403/papers/sentient/sentient.md)) ([Link to sentient/sentient2.md](https://github.com/danc403/papers/sentient/sentient2.md))
 * **RAPTR:** A therapeutic paradigm for targeted neurorepair using resonance-aided protein regeneration and intelligent steering. ([Link to raptr/raptr.md](https://github.com/danc403/papers/raptr/raptr.md))
 * **Nymph:** A multimodal model for audio-text processing with prosody and sentiment awareness. ([Link to nymph/nymph.md](https://github.com/danc403/papers/nymph/nymph.md))
+* **Bang:** Theory of infinite Universe. ([Link to bang/bang.md](https://github.com/danc403/papers/bang/bang.md))
 
 ## License
 
