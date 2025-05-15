@@ -1,0 +1,14 @@
+Here are a few examples, along with why they fit the profile:
+1. 
+Rep. John B. Larson (CT): He is a senior member of the House Ways and Means Committee and has served as the Ranking Member (and previously Chair) of the Subcommittee on Social Security. He has been a very vocal advocate for strengthening Social Security and has introduced comprehensive reform legislation in the past. His focus on Social Security makes him a highly relevant potential champion.   Learn More
+2. 
+Sen. Sherrod Brown (OH): He is a member of the Senate Finance Committee, which has jurisdiction over Social Security, and is a prominent voice on economic justice and workers' rights. He has also been involved with issues related to seniors and Social Security COLAs. His position on Finance and his focus on working families make him a strong candidate.   Learn More
+3. 
+Rep. Robert C. "Bobby" Scott (VA): As a key member (often Ranking Member or Chair) of the House Committee on Education and the Workforce, he is a leading champion of increasing the federal minimum wage and advocating for workers' rights. He has been the lead sponsor of recent versions of the "Raise the Wage Act." His focus aligns directly with the minimum wage/wage adjustment aspects of your bill.   Learn More
+4. 
+Sen. Bernie Sanders (I-VT, caucuses with Democrats): As a former Chair and current Ranking Member of the Senate Committee on Health, Education, Labor, and Pensions (HELP), which handles minimum wage and labor issues, and a member of the Senate Finance Committee, he is a highly prominent figure advocating for Social Security expansion, increased minimum wage, and economic fairness. He has sponsored key minimum wage bills in the Senate. His leadership roles and consistent focus make him a very likely individual to be interested in aspects of your proposal.
+5. 
+Rep. Jan Schakowsky (IL) and Rep. Doris Matsui (CA): Both have been active as Co-Chairs of the House Democratic Caucus Task Force on Aging and Families. This task force focuses specifically on issues affecting seniors, including Social Security and financial security in retirement. Their leadership in this caucus indicates a strong interest in the well-being of seniors and the policies that affect them.
+6. 
+ Members of the Congressional Labor Caucus: This caucus is co-chaired by various Democratic members (e.g., Reps. Mark Pocan, Donald Norcross, Steven Horsford, Debbie Dingell). Members of this caucus are focused on advocating for workers' rights, wages, and economic security, aligning with the wage adjustment components of your bill.   Learn More
+These examples represent types of Democratic members – those in key committee leadership roles related to Social Security and labor, and those who have demonstrated a history of sponsoring or leading efforts on these specific issues.
