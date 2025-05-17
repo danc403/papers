@@ -30,13 +30,13 @@ The proposed implementation focuses on using readily available and potentially l
 
 ### 4.1 Actuator Source: Repurposed Dot Matrix Print Heads
 
-The concept proposes using the linear actuator arrays found in salvaged or surplus dot matrix printers (specifically, 24-pin print heads are well-suited).
+The concept proposes using the linear actuator arrays found in dot matrix printers (specifically, 24-pin print heads seem well-suited).
 
 * **Justification:** These print heads contain a column of small, robust linear actuators (typically solenoids) designed for rapid, repeatable pulsing. This inherent rapid pulsing capability is precisely what is needed to generate a vibrotactile sensation, bypassing the significant engineering challenge and cost of building custom latching actuators required for static tactile displays. Their potential for low cost through salvage or bulk availability makes them attractive for an affordable design.
 
 ### 4.2 Scaled-Up Tactile Element Design
 
-The display would use a scaled-up tactile "cell" format, perhaps based on the standard 6-pin (2x3) Braille layout, but with significantly larger physical dimensions (e.g., approximately double the standard Braille dot/cell size, placing pin centers at 4mm or more apart, or even larger depending on perception testing).
+The display would use a scaled-up tactile "cell" format, perhaps based on the standard 6-pin (2x3) Braille layout, but with significantly larger physical dimensions (e.g., approximately double the standard Braille dot/cell size, placing pin centers at 3mm or more apart, or even larger depending on perception testing).
 
 * **Mapping Print Head Pins to Tactile Points:** A key aspect is mapping the pins from the print head's single vertical column to the 2x3 grid structure of the scaled-up tactile cell. For a 5-line high display segment using scaled-up 6-pin cells:
     * Two vertically oriented 24-pin print heads would be placed side-by-side to form one scaled-up character cell column across 5 lines.

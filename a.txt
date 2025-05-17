@@ -1,0 +1,5 @@
+genai2.py \
+-f bang/bang.md -f cola/cola1.md -f cola/cola2.md -f conscience/conscience.md -f nymph/nymph.md -f raptr/raptr.md -f sentient/sentient.md -f sentient/sentient2.md -f vibetact/vibetact.md \
+-p "Do any of these papers work together or can any be combined to make a broader implication together?:" \
+> ans.md
+
